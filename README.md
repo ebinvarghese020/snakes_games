@@ -30,9 +30,8 @@ The Snake Game is a classic arcade game where the player controls a snake to eat
 - Clone the repository or download the source code files.
 - Navigate to the project directory in the terminal or command prompt.
 - Run the following command to start the game:
-   ```
-python snake.py
-   ```
+``` python snake.py ```
+
 ## Acknowledgments
 
 This Snake game was developed using Python classes and the Turtle module, inspired by the classic arcade game. Special thanks to the Python community and the creators of the Turtle module for providing a powerful and user-friendly framework for game development.
