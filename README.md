@@ -29,7 +29,10 @@ The Snake Game is a classic arcade game where the player controls a snake to eat
 
 - Clone the repository or download the source code files.
 - Navigate to the project directory in the terminal or command prompt.
-- Run the following command to start the game: """ python snake.py """
+- Run the following command to start the game:
+'''
+python snake.py
+'''
 
 ## Acknowledgments
 
