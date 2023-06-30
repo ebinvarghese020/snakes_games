@@ -25,7 +25,7 @@ The Snake Game is a classic arcade game where the player controls a snake to eat
 - Python 3.x
 - Turtle module (included in the Python standard library)
 
-- Getting Started
+## Getting Started
 
 - Clone the repository or download the source code files.
 - Navigate to the project directory in the terminal or command prompt.
